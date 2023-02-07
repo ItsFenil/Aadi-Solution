@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Aadi-Solution/static/css/main.04df53d7.chunk.css",
+    "main.js": "/Aadi-Solution/static/js/main.44292c20.chunk.js",
+    "main.js.map": "/Aadi-Solution/static/js/main.44292c20.chunk.js.map",
+    "runtime-main.js": "/Aadi-Solution/static/js/runtime-main.d1e96e79.js",
+    "runtime-main.js.map": "/Aadi-Solution/static/js/runtime-main.d1e96e79.js.map",
+    "static/js/2.81e7c98c.chunk.js": "/Aadi-Solution/static/js/2.81e7c98c.chunk.js",
+    "static/js/2.81e7c98c.chunk.js.map": "/Aadi-Solution/static/js/2.81e7c98c.chunk.js.map",
+    "index.html": "/Aadi-Solution/index.html",
+    "precache-manifest.09ce6521735a30807ef22b7de31021b4.js": "/Aadi-Solution/precache-manifest.09ce6521735a30807ef22b7de31021b4.js",
+    "service-worker.js": "/Aadi-Solution/service-worker.js",
+    "static/css/main.04df53d7.chunk.css.map": "/Aadi-Solution/static/css/main.04df53d7.chunk.css.map",
+    "static/js/2.81e7c98c.chunk.js.LICENSE.txt": "/Aadi-Solution/static/js/2.81e7c98c.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/Aadi-Solution/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/Aadi-Solution/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/Aadi-Solution/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/Aadi-Solution/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/Aadi-Solution/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/Aadi-Solution/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/Aadi-Solution/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/Aadi-Solution/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/Aadi-Solution/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/Aadi-Solution/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/Aadi-Solution/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/Aadi-Solution/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e96e79.js",
+    "static/js/2.81e7c98c.chunk.js",
+    "static/css/main.04df53d7.chunk.css",
+    "static/js/main.44292c20.chunk.js"
+  ]
+}
